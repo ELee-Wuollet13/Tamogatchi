@@ -1,19 +1,22 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project gained timer functionality from [Moment Homepage](`https://momentjs.com/`)  `npm install moment@2.18.1`
+
 [React YouTube Plugin]('https://github.com/tjallingt/react-youtube')
 [YouTube Video Params Documentation]('https://developers.google.com/youtube/player_parameters')
 
 [Bootstrap Instructions]('https://create-react-app.dev/docs/adding-bootstrap/')
-
+  ## `npm i --save react-bootstrap`
 [NavBar Documentation]('https://react-bootstrap.github.io/components/navbar/')
 
 [React Router INstallation Instructions]('https://www.learnhowtoprogram.com/react/react-fundamentals/library-feature-react-router-ebd18e8a-dc7f-4daa-a629-54933a118d74')  `npm install react-router-dom@4.2.2 --savey
 `
 [Giphy Search / select SUpport]('https://www.npmjs.com/package/react-giphy-select')
 
-[Gif Support]('https://www.npmjs.com/package/react-gif-player')
+[Gif Support]('https://www.npmjs.com/package/react-gif-player') "  <GifPlayer gif={scream} still={scream} />"
 ## Available Scripts
 
+[GoogleFontLoader]('https://www.npmjs.com/package/react-google-font-loader')
 In the project directory, you can run:
 
 ### `yarn start`

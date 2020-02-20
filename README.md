@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This project gained timer functionality from [Moment Homepage](`https://momentjs.com/`)  `npm install moment@2.18.1`
 
+`CNTL ALT SPACE` = Emoji Shortcuts
+
 [React YouTube Plugin]('https://github.com/tjallingt/react-youtube')
 [YouTube Video Params Documentation]('https://developers.google.com/youtube/player_parameters')
 

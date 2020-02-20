@@ -1,3 +1,19 @@
 body {
-  background-color: limegreen;
+  background-image:url('https://cropper.watch.aetnd.com/cdn.watch.aetnd.com/sites/2/2019/12/ufos-secret-alien-technology-2048x1152-primary-16x9.jpg?w=1440');
+  background-repeat: no-repeat;
+  border-color: red;
+  border-width: 3px;
+
+
+
+
+}
+
+
+.bg {
+
+ transform: rotate(180deg);
+}
+
+.thisApp {
 }
